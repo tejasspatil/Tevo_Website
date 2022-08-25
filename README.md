@@ -1,2 +1,1 @@
-# Tevo_Website
-Created with CodeSandbox
+# Landing Page for TEVO.
